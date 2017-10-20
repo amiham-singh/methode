@@ -10,7 +10,7 @@ var kn_data = {
         stylesheets: [
             'https://rawgit.com/amiham-singh/methode/master/css/base.css',
             'https://rawgit.com/amiham-singh/methode/master/css/vendor.css',
-            'https://rawgit.com/amiham-singh/methode/master/css/main.css',
+            'https://rawgit.com/amiham-singh/methode/master/css/new.css',
         ]
     }
 
